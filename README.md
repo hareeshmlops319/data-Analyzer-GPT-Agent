@@ -214,8 +214,7 @@ MIT License
 
 ## Author
 
-**Hareesh Yalamasetty**  
-AI / MLOps / Cloud Enthusiast
+**Hareesh Yalamasetty**
 
 
 
